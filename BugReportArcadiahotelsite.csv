@@ -1,0 +1,91 @@
+Arcadia Hotel,,,,,,,
+"Identified by: Greema Sunny
+Reported to:
+Version:
+Environment Details:
+Date: 20/02/2023",,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Bug ID,Expected result,Bug Description,Steps to reproduce,Severity,Priority,Screenshot,Status
+DEF_AH_01,should load quickly when clicked on the link,site is not loading quickly,click on the site link,minor,,http://www.arcadiahotels.net/index.php,New
+DEF_AH_02,site should be secured,https is not enabled for the site,click on the site link,major,,https://drive.google.com/file/d/16gmUd8iEO6XPwBxUEe3K5ezoD2yr6N7u/view?usp=share_link,New
+DEF_AH_03,should not contain grammatical errors,"There is gramatical error in the content.
+1.'multi-channel entertainment can be also enjoyed' change to 'multi-channel entertainment can also be enjoyed'
+2. 'person who looks into finding comfort' change to ' person who looks for finding comfort'  ","1.open the website
+2.check all contents",Trivial,,"https://drive.google.com/file/d/1U3ypiltYt4Gzch53nhCpy1qEItjw4t9e/view?usp=share_link
+https://drive.google.com/file/d/1X4nTIorFCYeFrW17iacBfjGFUaiSKB5t/view?usp=share_link",New
+DEF_AH_04,social media icons should redirect to the respective social media network,social media icons is not redirected to the respective social media network,"1.open the website
+2.click social media icons",major,,https://drive.google.com/file/d/1PE2XF3rm85pxB0EHntP_XQZU-vLs_QV4/view?usp=share_link,New
+DEF_AH_05,mail to link  should redirect to the email page with hotel's email address prepopulated in the 'To' field,mail to link  is not redirected to the email page ,"1.open the website
+2.click Email link",major,,https://drive.google.com/file/d/17cMW8vMME27EfyAuYPbidLIpm8Bqr7yg/view?usp=share_link,New
+DEF_AH_06,alignment of text in a particular section should be same,"there is alignment issues in the the tourist destination page,Why choose us, tourist spots list...","1.open the website
+2.check all contents",trivial,,https://drive.google.com/file/d/1FWFA4yWFZPnxf6TE6kVof4MW8d56FCiK/view?usp=share_link,New
+DEF_AH_07,should not contain spelling mistakes,"There is spelling mistake in the content.
+1. The spelling of coffee in the bottom facility link is incorrect. ","1.open the website
+2.Scroll down to the bottom of the page
+3.Check facilities",Trivial,,https://drive.google.com/file/d/1BWmXr-fcZ_xEoAw6Oh6DKyZ-BSJVhCiq/view?usp=share_link,New
+DEF_AH_08,full stop should not be present for bulleted list,full stop is given for bulleted list in the 'Why choose us' section,"1.open the website
+2.Go to home
+3.check 'why choose us' section",Trivial,,https://drive.google.com/file/d/149ekTSQgh9p81iDUlVZvP2D33VP2K_Gm/view?usp=share_link,New
+DEF_AH_09,Unnecessary headings should not be present,an abbreviation without any expansion is given as heading in the Room Category Page,"1.open the website
+2.click rooms and tarif link
+3.check all headings",minor,,https://drive.google.com/file/d/1WNOdyl0v3b-Y_Bx8jjj2VLFIBd6w9LDn/view?usp=share_link,New
+DEF_AH_10,All headings should have corresponding content below it,unknown heading with no content below it is given in the rooms category page,"1.open the website
+2. click rooms category link
+3.scrol down to 'Bdb' heading",minor,,https://drive.google.com/file/d/1WNOdyl0v3b-Y_Bx8jjj2VLFIBd6w9LDn/view?usp=share_link,New
+DEF_AH_11,all images should load completely,some images are not loaded in the image gallery page,"1.open the website
+2.click image gallery
+3.check all images",minor,,https://drive.google.com/file/d/1MpKFbldwZ3P_NGtBu1QzUQ-qMlqswJTV/view?usp=share_link,New
+DEF_AH_12,should show error message when letters are written in the zip/postal code field ,error message is shown,"1.open the website
+2.click direct pay link",minor,,https://drive.google.com/file/d/10jW6Jo-9KLieOfvPaF6T3TkSh_FQdLr8/view?usp=share_link,New
+DEF_AH_13,Home link should be provided in all pages,home link is not available in the Direct pay page,"1.open the website
+2.click direct pay link",enhancement,,,New
+DEF_AH_14,alignment should be justified,"alignment is not justified in the facilities page,tourist destination page…","1.open the website
+2.check all contents",minor,,"https://drive.google.com/file/d/1SMYF-et68IbYNDcRMaIADS-g9GcWgERX/view?usp=share_link
+https://drive.google.com/file/d/14h1Pj-s-j-4hEfMcDbPKaCstm9jRNr6A/view?usp=share_link",New
+DEF_AH_15,should not contain unavailable videos,unavailable videos is not removed,"1.open the website
+2.click video gallery link",minor,,https://drive.google.com/file/d/1wc60faa2p0KlL-ToUnALxfuTVpo_MiMS/view?usp=share_link,New
+DEF_AH_16,customer reviews should be clearly visible,small font size is given for customer review and is not clearly visible,"1.open the website
+2.Click facilities",Trivial,,https://drive.google.com/file/d/1JQEugExs1wsMJAg9BAEyTV4S8Fm9ZU48/view?usp=share_link,New
+DEF_AH_17,scroll up button should be present,scroll up button is not present,"1.Open the site
+2.Scroll down",Enhancement,,,New
+DEF_AH_18,phone number link should work properly and should redirect to call when the site is opened in mobile,phone number link is not working,"1.open the website
+2.click on the phone number",major,,https://drive.google.com/file/d/1nEB3InrDE0SUsoQmVcQVbkgJVo-pr9KA/view?usp=share_link,New
+DEF_AH_19,should display the content in the chosen language,content is not displayed  in the chosen language,"1.open the website
+2. click book online
+3. change the language",major,,https://drive.google.com/file/d/1PvVmblZXVYb3fuWMIxaZhgLbCG_8PMum/view?usp=share_link,New
+DEF_AH_20,eye icon should be present for the password field,eye icon is not present in the password field,"1.open the website
+2. click book online
+3.click cancel resevation
+4.Enter password
+
+",enhancement,,https://drive.google.com/file/d/1_EkqrcnQaBfdb_RhSqZ6gOn2dsdQCwsv/view?usp=share_link,New
+DEF_AH_21,forgot password should work in the login interface,forgot password is not working ,"1.open the website
+2. click book online
+3.click cancel resevation
+4.click forgot password
+
+",major,,"https://drive.google.com/file/d/1_EkqrcnQaBfdb_RhSqZ6gOn2dsdQCwsv/view?usp=share_link
+https://drive.google.com/file/d/1vpRKhTFyU8mk3lu0cKnURe2e65wXMEtk/view?usp=share_link",New
+DEF_AH_22,contents should not overlap in any section,content is overlapped in the online resevation section,"1.open the website
+2.Go to home page
+3.check online resevation",Trivial,,https://drive.google.com/file/d/17vvusPj9eRQCmUiVkDWLLHOJV-7f9WBh/view?usp=share_link,New
+DEF_AH_23,should not contain mistake in the phone number,phone number is given +91 481 2569999 in the top of home page instead of 04812569999,"1.open the website
+2.Go to home page
+3.check phone number in the top section and above contact now button",Trivial,,"https://drive.google.com/file/d/1aI0tEArZJvsn_c9ffgT0-d9waaCdEHE_/view?usp=share_link
+https://drive.google.com/file/d/1jaRzLzZBF1IRFCct21tqHMWLC1kHhayB/view?usp=share_link",New
+DEF_AH_24,unnecessary links should not be given,In the bottom of every page there is link to facilities page.Also links are given for each facility.But on clicking each facility link it redirects to the facility page only not the specific facility that is chosen,"1.open the website
+2.Scroll down to the bottom of the page
+3.Check facilities",major,,https://drive.google.com/file/d/1-pNdziAApJbvidc9AD2xcADTA13Gs8Ch/view?usp=share_link,New
+DEF_AH_25,site should be compatible with different browsers,Certain section are not dispalyed correctly when viewed in mozilla firefox. Also map is not loaded,"1.Open Google chrome
+2.Open the website 
+3.Check for layout issues
+4.Repeat the same steps in a different browser (mozilla)",minor,,https://drive.google.com/file/d/1jE1UM6xEHObcPp9ADzy5A7XnbZyjh6kF/view?usp=share_link,New
+DEF_AH_26,error message should be shown when letters are displayed on the reference number field,error message is not shown when letters are displayed on the reference number field,"1.open the website
+2.click direct pay link",minor,,https://drive.google.com/file/d/1bYoS0YYMBcYyq4ke1EbzRALMEbEbJbjy/view?usp=share_link,New
+DEF_AH_27,map should be given at the home page,map is not  given in the home page.It is shown only in the contact us page,open website,enhancement,,,New
+DEF_AH_28,chat facility should be available,chat facility is not available,open website,enhancement,,,New
+DEF_AH_29,search feature should be present,search feature is not present,open website,enhancement,,,New
+DEF_AH_30,Hotel rating should be shown,Hotel rating is not shown,open website,enhancement,,,New
